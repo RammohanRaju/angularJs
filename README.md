@@ -1,2 +1,2 @@
 # angularJs
-Repository for Angular JS
+Repository for Angular JS proof of concept.
